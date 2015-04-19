@@ -1,5 +1,9 @@
 sdfasdfad
 
 This is updated from server
+<<<<<<< HEAD
 
 this is very nice upddate from dixanta
+=======
+hello sir how are you?
+>>>>>>> a3065b341393524ffe2dff1e20aaa930b1ca8f5e
